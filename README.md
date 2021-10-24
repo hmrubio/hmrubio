@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning .NET Framework and working as development consultant at BA.:heart:
 <!--
 **hmrubio/hmrubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
