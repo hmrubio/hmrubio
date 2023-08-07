@@ -1,5 +1,5 @@
-### Hi there 👋
-🌱 I’m currently learning .NET Framework and working as development consultant at BA.:heart:
+### Hey there 👋
+🌱 I am .NET Developer and currently working as development consultant at BA.:heart:
 
 ![imagen](https://user-images.githubusercontent.com/33118285/138581849-c60ecc25-4a5d-4396-837b-b3b12b0dc82a.png)
 
